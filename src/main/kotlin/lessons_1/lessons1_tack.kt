@@ -1,5 +1,7 @@
 package org.example.lessons_1
 
 fun main() {
-    printIn("Урок 1: задача 1")
+    val numberOfInt: Int = 75;
+    val stringText: String = "Спасибо за покупку"
+
 }
