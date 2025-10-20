@@ -6,7 +6,7 @@ fun main() {
     var numberMinute: Int = 7;
 
     println("Год взлета: " + yearFlight);
-    println("Взлет: 0" + numberHour + ":0" + numberMinute);
+    println("Взлет: " + numberHour + ":" + numberMinute);
 
     numberHour = 10;
     numberMinute = 55;
